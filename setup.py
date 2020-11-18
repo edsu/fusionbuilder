@@ -4,8 +4,8 @@ with open("README.md") as f:
     long_description = f.read()
 
 setup(
-    name = 'bagcat',
-    version = '0.0.6',
+    name = 'fusionbuilder',
+    version = '0.0.1',
     url = 'https://github.com/edsu/fusionbuilder/',
     author = 'Ed Summers',
     author_email = 'ehs@pobox.com',
